@@ -59,3 +59,16 @@ clamp, normal sigmoidCut: definem a propriedade dos fractais <br/>
 
 Executando o código, o fractal formado será:
 
+Nesse exemplo, precisaremos ir um pouco mais a fundo no código.
+Modificamos a função baseFunction⬇️⬇️ <br/>
+![func](https://user-images.githubusercontent.com/93085789/176439831-1bbbfe17-24f5-47ce-b727-82bdb35e1e11.jpeg) <br/>
+Mudaremos o número de iterações para 255⬇️⬇️ <br/>
+![iter](https://user-images.githubusercontent.com/93085789/176440244-7f659bc5-7428-4242-ae4c-419cf45d5826.jpeg) <br/>
+Alteramos a origem do x e y e as cores do fractal, gerando a imagem: <br/>
+
+![IMG5](https://user-images.githubusercontent.com/93085789/176439210-c2802a22-68f1-47a4-a24d-a0a42e6ad355.jpeg) <br/>
+
+Deixando em preto e branco ficaremos com uma imagem mais clara: <br/>
+
+![IMG6](https://user-images.githubusercontent.com/93085789/176439273-1ba64521-8a39-4b35-b49a-c5f8af83fb09.jpeg) <br/>
+Essa forma de mandelbrot⬆️ é chamada de burning ship, pois se parece com um navio pegando fogo.
