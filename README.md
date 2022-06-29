@@ -57,7 +57,15 @@ colorFunc : é a função de cor, x é a variável que muda as cores, w é o wid
 produceFractal : define o tamanho e a largura da imagem, desenha os pixels e gera a função do desenho <br/>
 clamp, normal sigmoidCut: definem a propriedade dos fractais <br/>
 
-Executando o código, o fractal formado será:
+Executando o código original, o fractal formado será:
+
+![im5](https://user-images.githubusercontent.com/93085789/176442811-2f6fd5cc-1fee-499c-a57c-487425353a99.png) <br/>
+Um conjunto de Maldelbrot simples.
+
+Modificando a função baseFunction ⬇️⬇️ <br/>
+![aq](https://user-images.githubusercontent.com/93085789/176443832-ee6bcc19-d3ce-4b5d-82e0-e0ed8235584d.jpeg) <br/>
+Fazendo z elevar a 7, gerando uma imagem com 7 "raízes", sendo uma central. <br/>
+![aaa](https://user-images.githubusercontent.com/93085789/176444450-fc68ac11-f28a-4235-b5b0-46df8594b897.jpeg) <br/>
 
 Nesse exemplo, precisaremos ir um pouco mais a fundo no código.
 Modificamos a função baseFunction⬇️⬇️ <br/>
