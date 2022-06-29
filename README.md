@@ -14,7 +14,7 @@ O conjunto de Mandelbrot é um fractal definido como o conjunto de pontos c no p
 
 ### Gerador de fractal em Haskell:
 
-Usamos dois programas em haskell para a execução do trabalho. Você pode acessá-los através do link:
+Nos baseamos em dois programas para a execução do trabalho. Você pode acessar o código original através do link:
 
 ➡️ https://typeclasses.com/art/mandelbrot
 
@@ -26,16 +26,36 @@ Código:⬇️⬇️
 
 ![IMG1](https://user-images.githubusercontent.com/93085789/176334678-e6b32822-ff16-4814-9908-bad6de55a32b.jpeg)
 
-Funções principais: (quais são as funções mais importantes e o que cada uma faz)...
+Funções principais⬇️
+
+aspectRatio : define um número complexo <br/>
+Width, height : resolução da imagem <br/>
+maxIters : número de iterações do programa <br/>
+fractal : equação que define o fractal <br/>
+realize : gera as espirais <br/>
 
 Executando o código, o fractal formado será:
 
-![image](https://user-images.githubusercontent.com/93085789/176335333-9daaa435-fca6-41f0-ad16-1a2db3228768.png)
+![image](https://user-images.githubusercontent.com/93085789/176335333-9daaa435-fca6-41f0-ad16-1a2db3228768.png) <br/>
+Um fractal bem simples.
 
-O segundo programa 
+O segundo programa se apresenta de forma mais clara e customizável, o que nos permitiu gerar diversos tipos de fractais. 
+
+Código:⬇️⬇️
 ![1](https://user-images.githubusercontent.com/93085789/176339894-6dc9244e-5b83-44ac-8052-b7a540a33806.jpeg)
 ![2](https://user-images.githubusercontent.com/93085789/176339916-4cf2f800-f1bf-4592-af92-78a1b9bd631e.jpeg)
 ![3](https://user-images.githubusercontent.com/93085789/176339929-f892ad48-ac87-4850-8197-60259a425b65.jpeg)
 ![5](https://user-images.githubusercontent.com/93085789/176339958-400d812c-8b1d-4613-9bbc-70d9a711da4d.jpeg)
 ![6](https://user-images.githubusercontent.com/93085789/176339971-5b49154d-0ce0-48f6-b2d7-b852ef2c4d17.jpeg)
 ![7](https://user-images.githubusercontent.com/93085789/176339992-cc1f5c0f-18a5-4de1-bd03-22879237ad9f.jpeg)
+
+Funções principais⬇️
+
+characteristic : quando z fica maior que 2 a função estoura, então é feita uma função para que isso não ocorra, fazendo o valor inverso de quando estamos no "final" dos buracos <br/>
+parser : colocar o valor das iterações e as principais variáveis para a formação da imagem <br/>
+colorFunc : é a função de cor, x é a variável que muda as cores, w é o width e r, g e b são os RGBs normais <br/>  
+produceFractal : define o tamanho e a largura da imagem, desenha os pixels e gera a função do desenho <br/>
+clamp, normal sigmoidCut: definem a propriedade dos fractais <br/>
+
+Executando o código, o fractal formado será:
+
