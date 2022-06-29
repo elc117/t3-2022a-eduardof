@@ -20,3 +20,8 @@ Usamos dois programas em haskell para a execução do trabalho. Você pode acess
 
 ➡️ https://gist.github.com/mbrc12/c3a40215022ea8efcddf7ad39993e4f3
 
+O primeiro programa é mais simples e com mais limitações para a personalização de fractais e sua cor.
+
+Código:⬇️⬇️
+
+![IMG1](https://user-images.githubusercontent.com/93085789/176334678-e6b32822-ff16-4814-9908-bad6de55a32b.jpeg)
