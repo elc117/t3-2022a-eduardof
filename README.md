@@ -9,3 +9,7 @@ Exemplo de um fractal de Mandelbrot sendo ampliado por mais de uma hora!!➡️�
 ## Conjunto de Mandelbrot:
 
 O conjunto de Mandelbrot é um fractal definido como o conjunto de pontos c no plano complexo para o qual a sequência é definida recursivamente, Benoit Mandelbrot foi o matemático que criou o termo fractal e teve grande contribuição na área de geometria fractal. 
+
+## Vamos ao código...
+
+### Gerador de fractal em Haskell:
