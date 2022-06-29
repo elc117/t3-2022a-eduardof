@@ -31,3 +31,5 @@ Funções principais: (quais são as funções mais importantes e o que cada uma
 Executando o código, o fractal formado será:
 
 ![image](https://user-images.githubusercontent.com/93085789/176335333-9daaa435-fca6-41f0-ad16-1a2db3228768.png)
+
+O segundo programa 
