@@ -64,7 +64,7 @@ Um conjunto de Maldelbrot simples.
 
 Modificando a função baseFunction ⬇️⬇️ <br/>
 ![aq](https://user-images.githubusercontent.com/93085789/176443832-ee6bcc19-d3ce-4b5d-82e0-e0ed8235584d.jpeg) <br/>
-Fazendo z elevar a 7, gerando uma imagem com 7 "raízes", sendo uma central. <br/>
+Fazendo z elevar a 7, gera uma imagem com 7 "raízes", sendo uma central. <br/>
 ![aaa](https://user-images.githubusercontent.com/93085789/176444450-fc68ac11-f28a-4235-b5b0-46df8594b897.jpeg) <br/>
 
 Nesse exemplo, precisaremos ir um pouco mais a fundo no código.
@@ -80,3 +80,5 @@ Deixando em preto e branco ficaremos com uma imagem mais clara: <br/>
 
 ![IMG6](https://user-images.githubusercontent.com/93085789/176439273-1ba64521-8a39-4b35-b49a-c5f8af83fb09.jpeg) <br/>
 Essa forma de mandelbrot⬆️ é chamada de burning ship, pois se parece com um navio pegando fogo.
+
+![Imaa](https://user-images.githubusercontent.com/93085789/176445018-84803727-888d-4b2e-85d5-c51df7edbb74.jpeg)
