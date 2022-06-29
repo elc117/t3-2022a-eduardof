@@ -33,3 +33,9 @@ Executando o código, o fractal formado será:
 ![image](https://user-images.githubusercontent.com/93085789/176335333-9daaa435-fca6-41f0-ad16-1a2db3228768.png)
 
 O segundo programa 
+![1](https://user-images.githubusercontent.com/93085789/176339894-6dc9244e-5b83-44ac-8052-b7a540a33806.jpeg)
+![2](https://user-images.githubusercontent.com/93085789/176339916-4cf2f800-f1bf-4592-af92-78a1b9bd631e.jpeg)
+![3](https://user-images.githubusercontent.com/93085789/176339929-f892ad48-ac87-4850-8197-60259a425b65.jpeg)
+![5](https://user-images.githubusercontent.com/93085789/176339958-400d812c-8b1d-4613-9bbc-70d9a711da4d.jpeg)
+![6](https://user-images.githubusercontent.com/93085789/176339971-5b49154d-0ce0-48f6-b2d7-b852ef2c4d17.jpeg)
+![7](https://user-images.githubusercontent.com/93085789/176339992-cc1f5c0f-18a5-4de1-bd03-22879237ad9f.jpeg)
