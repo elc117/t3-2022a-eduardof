@@ -1,5 +1,5 @@
-# Fractais em Haskell!!! :star_struck: :star_struck: :star_struck:
-
+# Fractais em Haskell!!! :star_struck: :star_struck: :star_struck: <br/>
+**Dupla**: Eduardo Adriano Fritzen e Jhuan Luis Almeida Assumpção <br/>
 ## O que são fractais? :thinking:	
 
 São figuras geométricas, produzidas por meio de equações matemáticas que podem ser interpretadas como formas e cores por programas de computador. O fractal pode ser dividido em partes, sendo cada uma delas semelhantes ao objeto original e com infinitos detalhes. Na maioria dos casos, um fractal pode ser gerado por um padrão repetido, normalmente por processos iterativos. Se você der um zoom em um fractal, ele revelara novos detalhes. :open_mouth:	
@@ -87,4 +87,4 @@ Usaremos a mesma baseFunction do Maldelbrot simples, 127 iterações e algumas a
 ![Imaa](https://user-images.githubusercontent.com/93085789/176445018-84803727-888d-4b2e-85d5-c51df7edbb74.jpeg) <br/>
 Esse fractal é basicamente formado dando **zoom no Maldelbrot simples**.
 
-**Dupla**: Eduardo Adriano Fritzen e Jhuan Luis Almeida Assumpção
+
