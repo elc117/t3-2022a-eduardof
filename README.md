@@ -81,4 +81,8 @@ Deixando em preto e branco ficaremos com uma imagem mais clara: <br/>
 ![IMG6](https://user-images.githubusercontent.com/93085789/176439273-1ba64521-8a39-4b35-b49a-c5f8af83fb09.jpeg) <br/>
 Essa forma de mandelbrot⬆️ é chamada de burning ship, pois se parece com um navio pegando fogo.
 
-![Imaa](https://user-images.githubusercontent.com/93085789/176445018-84803727-888d-4b2e-85d5-c51df7edbb74.jpeg)
+Formando o fractal Sea horse valley <br/>
+Usaremos a mesma baseFunction do Maldelbrot simples, 127 iterações e algumas alterações na função parser ⬇️⬇️ <br/>
+![aaaaaa](https://user-images.githubusercontent.com/93085789/176447510-2e88f8ce-63a8-42c7-8d33-d26771cab9cb.jpeg) <br/>
+![Imaa](https://user-images.githubusercontent.com/93085789/176445018-84803727-888d-4b2e-85d5-c51df7edbb74.jpeg) <br/>
+Esse fractal é basicamente formado dando zoom no Maldelbrot simples.
