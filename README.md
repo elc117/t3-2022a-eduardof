@@ -13,3 +13,8 @@ O conjunto de Mandelbrot é um fractal definido como o conjunto de pontos c no p
 ## Vamos ao código...
 
 ### Gerador de fractal em Haskell:
+
+Usamos dois programas em haskell para a execução do trabalho. Você pode acessá-los através do link:
+➡️ https://typeclasses.com/art/mandelbrot
+➡️ https://gist.github.com/mbrc12/c3a40215022ea8efcddf7ad39993e4f3
+
