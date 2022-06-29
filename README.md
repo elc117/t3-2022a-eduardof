@@ -28,16 +28,16 @@ Código:⬇️⬇️
 
 Funções principais⬇️
 
-aspectRatio : define um número complexo <br/>
-Width, height : resolução da imagem <br/>
-maxIters : número de iterações do programa <br/>
-fractal : equação que define o fractal <br/>
-realize : gera as espirais <br/>
+**aspectRatio** : define um número complexo <br/>
+**Width, height** : resolução da imagem <br/>
+**maxIters** : número de iterações do programa <br/>
+**fractal** : equação que define o fractal <br/>
+**realize** : gera as espirais <br/>
 
 Executando o código, o fractal formado será:
 
 ![image](https://user-images.githubusercontent.com/93085789/176335333-9daaa435-fca6-41f0-ad16-1a2db3228768.png) <br/>
-Um fractal bem simples.
+**Um fractal bem simples.**
 
 O segundo programa se apresenta de forma mais clara e customizável, o que nos permitiu gerar diversos tipos de fractais. 
 
@@ -51,16 +51,16 @@ Código:⬇️⬇️
 
 Funções principais⬇️
 
-characteristic : quando z fica maior que 2 a função estoura, então é feita uma função para que isso não ocorra, fazendo o valor inverso de quando estamos no "final" dos buracos <br/>
-parser : colocar o valor das iterações e as principais variáveis para a formação da imagem <br/>
-colorFunc : é a função de cor, x é a variável que muda as cores, w é o width e r, g e b são os RGBs normais <br/>  
-produceFractal : define o tamanho e a largura da imagem, desenha os pixels e gera a função do desenho <br/>
-clamp, normal sigmoidCut: definem a propriedade dos fractais <br/>
+**characteristic** : quando z fica maior que 2 a função estoura, então é feita uma função para que isso não ocorra, fazendo o valor inverso de quando estamos no "final" dos buracos <br/>
+**parser** : colocar o valor das iterações e as principais variáveis para a formação da imagem <br/>
+**colorFunc** : é a função de cor, x é a variável que muda as cores, w é o width e r, g e b são os RGBs normais <br/>  
+**produceFractal** : define o tamanho e a largura da imagem, desenha os pixels e gera a função do desenho <br/>
+**clamp, normal sigmoidCut**: definem a propriedade dos fractais <br/>
 
 Executando o código original, o fractal formado será:
 
 ![im5](https://user-images.githubusercontent.com/93085789/176442811-2f6fd5cc-1fee-499c-a57c-487425353a99.png) <br/>
-Um conjunto de Maldelbrot simples.
+**Um conjunto de Maldelbrot simples.**
 
 Modificando a função baseFunction ⬇️⬇️ <br/>
 ![aq](https://user-images.githubusercontent.com/93085789/176443832-ee6bcc19-d3ce-4b5d-82e0-e0ed8235584d.jpeg) <br/>
@@ -79,10 +79,10 @@ Alteramos a origem do x e y e as cores do fractal, gerando a imagem: <br/>
 Deixando em preto e branco ficaremos com uma imagem mais clara: <br/>
 
 ![IMG6](https://user-images.githubusercontent.com/93085789/176439273-1ba64521-8a39-4b35-b49a-c5f8af83fb09.jpeg) <br/>
-Essa forma de mandelbrot⬆️ é chamada de burning ship, pois se parece com um navio pegando fogo.
+**Essa forma de mandelbrot⬆️ é chamada de burning ship, pois se parece com um navio pegando fogo.**
 
-Formando o fractal Sea horse valley <br/>
+**Formando o fractal Sea horse valley** <br/>
 Usaremos a mesma baseFunction do Maldelbrot simples, 127 iterações e algumas alterações na função parser ⬇️⬇️ <br/>
 ![aaaaaa](https://user-images.githubusercontent.com/93085789/176447510-2e88f8ce-63a8-42c7-8d33-d26771cab9cb.jpeg) <br/>
 ![Imaa](https://user-images.githubusercontent.com/93085789/176445018-84803727-888d-4b2e-85d5-c51df7edbb74.jpeg) <br/>
-Esse fractal é basicamente formado dando zoom no Maldelbrot simples.
+Esse fractal é basicamente formado dando **zoom no Maldelbrot simples**.
