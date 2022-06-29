@@ -53,9 +53,9 @@ Funções principais⬇️
 
 **characteristic** : quando z fica maior que 2 a função estoura, então é feita uma função para que isso não ocorra, fazendo o valor inverso de quando estamos no "final" dos buracos <br/>
 **parser** : colocar o valor das iterações e as principais variáveis para a formação da imagem <br/>
-**colorFunc** : é a função de cor, x é a variável que muda as cores, w é o width e r, g e b são os RGBs normais<br/>  
-**produceFractal** : define o tamanho e a largura da imagem, desenha os pixels e gera a função do desenho <br/>
-**clamp, normal sigmoidCut**: definem a propriedade dos fractais <br/>
+**colorFunc** : é a função de cor, x é a variável que muda as cores, w é o width e r, g e b são os RGBs normais
+<br/>**produceFractal** : define o tamanho e a largura da imagem, desenha os pixels e gera a função do desenho <br/>
+**clamp, normal sigmoidCut**: definem a propriedade dos fractais 
 
 Executando o código original, o fractal formado será:
 
@@ -86,3 +86,5 @@ Usaremos a mesma baseFunction do Maldelbrot simples, 127 iterações e algumas a
 ![aaaaaa](https://user-images.githubusercontent.com/93085789/176447510-2e88f8ce-63a8-42c7-8d33-d26771cab9cb.jpeg) <br/>
 ![Imaa](https://user-images.githubusercontent.com/93085789/176445018-84803727-888d-4b2e-85d5-c51df7edbb74.jpeg) <br/>
 Esse fractal é basicamente formado dando **zoom no Maldelbrot simples**.
+
+**Dupla**: Eduardo Adriano Fritzen e Jhuan Luis Almeida Assumpção
